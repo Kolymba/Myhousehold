@@ -1,0 +1,58 @@
+<resources>
+    <!--Настройки главные -->
+    <string name="app_name">Мое домохозяйство</string>
+    <string name="title_home">Дом</string>
+    <string name="title_dashboard">Доска</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="menu">Меню</string>
+
+    <!--Базовые услуги-->
+    <string name="guaranteed_repair">Гарантийный ремонт</string>
+    <string name="dispatcher_application">Заявка диспетчеру</string>
+    <string name="call_plumbing">Вызов сантехника</string>
+    <string name="call_electrician">Вызов электрика</string>
+    <string name="accounting">Бухгалтерия</string>
+    <string name="basic_services">Базовые услуги</string>
+    <!--Дополнительные услуги -->
+    <string name="add_services">Дополнительные услуги</string>
+    <string name="report_problem">Сообщить о проблеме</string>
+    <string name="paid_plumbing_services">Платные услуги сантехника</string>
+    <string name="paid_electrician_services">Платные услуги электрика</string>
+    <string name="fire_alarm">Пожарная сигнализация</string>
+    <string name="video">Видеонаблюдение</string>
+    <string name="intercom">Домофон</string>
+    <!--Сообщить о проблеме -->
+    <string name="crash">Авария</string>
+    <string name="elevator">Лифт</string>
+    <string name="lighting">Освещение в МОП</string>
+    <string name="counter">Счетчик</string>
+    <string name="my_profile">Мой аккаунт</string>
+    <string name="my_accounts">Мои счета</string>
+    <string name="ads">Объявления от УК</string>
+    <string name="information">Информация</string>
+    <string name="pokazania">Показания приборов учета</string>
+
+
+    <!--Настройки входа в приоложение -->
+    <string name="title_activity_login">Войти</string>
+    <string name="prompt_email">Электронная почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти и зарегистрироваться</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Добро пожаловать !"</string>
+    <string name="invalid_username">Неверное имя пользователя</string>
+    <string name="invalid_password">Неверный пароль</string>
+    <string name="login_failed">"Ошибка входа"</string>
+
+
+    <!-- Настройка внизу приложения-->
+    <string name="service">"Сервис"</string>
+    <string name="Accounts">"Счета"</string>
+    <string name="Profile">"Профиль"</string>
+    <string name="News">"Новости"</string>
+    <string name="Opros">"Опросы"</string>
+    <string name="info">"Инфо"</string>
+    <string name="title_activity_service">service</string>
+
+
+</resources>
